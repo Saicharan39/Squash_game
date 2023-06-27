@@ -1,0 +1,5 @@
+16*32 DMD panel 
+Arduino Uno
+Battery 9V
+Jumper wires
+Potentiometers 10k 
